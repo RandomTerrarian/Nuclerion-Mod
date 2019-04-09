@@ -1,0 +1,3 @@
+author = RandomTerrarian
+version = 0.1
+displayName = Nuclerion mod consist in an expansion of the experience of terraria by adding nuclear related stuff (weapons,npc,furniture,etc)
